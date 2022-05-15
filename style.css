@@ -1,0 +1,133 @@
+h2 {
+   margin-left: 20px;
+}
+p {
+font-size: 20px;
+margin-left:20px;
+display: inline-block;
+}
+h3{
+   margin-left: 20px;
+}
+img{
+   width: 20%;
+   margin-left: 20px;
+   height: 45%;
+}
+#pic{
+width:30%;
+}
+#nice{
+   height: 45%;
+   width: 35%;
+}
+#ok{
+   height: 45%;
+   width: 25%;
+}
+h1{
+   background-color: darkgreen;
+   color: yellow;
+   font-size: 45px;
+}
+#greata{
+   width: 350px;
+   height: 300px;
+   float: left;
+   padding: 0 10px 0 0;
+}
+.container{
+ padding: 8px;
+}
+.text{
+   font-size: 20px;
+}
+#mel{
+   width: 350px;
+   height: 300px;
+   float: left;
+   padding: 0 10px 0 0;
+}
+a{
+font-size: 30px;
+color: white;
+}
+h4{
+   background-color: #1A5276
+   ;
+}
+#play{
+   margin-left: 50px;
+}
+#playi{
+   width: 1000px;
+   height: 600px;
+}
+#helpp{
+   font-size: 20px;
+}
+#chang{
+   font-size: 25px;
+}
+#hel{
+   width: 350px;
+   height: 300px;
+   float: right;
+   padding: 0 10px 0 0;
+}
+a:hover {
+   color: red;
+   background-color: transparent;
+   text-decoration: underline;
+ }
+#Facts{
+   width: 350px;
+   height: 300px;
+   float: left;
+   margin-right: 20px;
+  
+ }
+.text2{
+   font-size: 20px;
+   margin-right: 20px;
+}
+ 
+#par{
+   margin-left: 200px;
+   margin-right: 200px;
+   background-color: 	rgb(217, 255, 102);
+   font-size: 20px;
+   color: black;
+}
+h6{
+   font-size: 20px;;
+   margin-left: 100px;
+   margin-right: 100px;
+   color: black;
+}
+#am{
+   width: 350px;
+   height: 300px;
+   float: right;
+   
+}
+h5{
+   font-size: 20px;
+}
+#vi{
+   width: 260px;
+   height: 300px;
+   float: left;
+}
+.text3{
+   font-size: 20px;
+}
+.column{
+   float: left;
+   margin-left: 175px;
+}
+.row::after{
+   
+   display: table;
+   
+}
